@@ -1,4 +1,9 @@
 HELLO COLLABORATOR
+<<<<<<< HEAD
 HELLO OWNER
 add a new line me as a collaborator
 
+=======
+HELLO OWNERI
+I added a line me as a owner
+>>>>>>> d9d108b5f0d2bd836c78e8b5647620281c2d6f24
